@@ -1,0 +1,7 @@
+{
+  "plugins": ["n"],
+  "extends": ["plugin:n/recommended"],
+  "rules": {
+    "n/no-process-env": "error",
+  },
+}
